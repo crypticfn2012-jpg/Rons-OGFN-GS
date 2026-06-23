@@ -9,6 +9,7 @@ will be getting updated and will hopefully be finished in a few months
 - working fullmap
 - season 1 - 14 support
 - working bosses for that season
+- Custom loot pool
 -----------------------------------
 
 # Btw when this releases im allowing anyone to use this for their project, so if you want to use it, GO AHEAD!
